@@ -1,0 +1,35 @@
+{
+	"Submaquinas":["a1"],
+	"SimbolosPilha":["@"],
+	"Transicoes":[
+		{
+			"EstadoRetorno":null,
+			"SubMaquinaChamada":null,
+			"Acao":null,
+			"Origem":"q1",
+			"Simbolo":"a",
+			"Destino":"q1"
+		},
+		{
+			"EstadoRetorno":null,
+			"SubMaquinaChamada":null,
+			"Acao":null,
+			"Origem":"q1",
+			"Simbolo":"x",
+			"Destino":"q2"
+		},
+		{
+			"EstadoRetorno":null,
+			"SubMaquinaChamada":null,
+			"Acao":null,
+			"Origem":"q2",
+			"Simbolo":"b",
+			"Destino":"q2"
+		}
+	],
+	"MarcadorPilhaVazia":"@",
+	"Estados":["q1","q2"],
+	"Simbolos":"abx",
+	"EstadoInicial":"q1",
+	"EstadosFinais":["q2"]
+}

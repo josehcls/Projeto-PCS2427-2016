@@ -1,0 +1,24 @@
+C:\Users\joseh\OneDrive\Documentos\GitHub\projetopcs-2427-2016\PCS2427\bin\Debug\PCS2427.exe.config
+C:\Users\joseh\OneDrive\Documentos\GitHub\projetopcs-2427-2016\PCS2427\obj\Debug\PCS2427.exe
+C:\Users\joseh\OneDrive\Documentos\GitHub\projetopcs-2427-2016\PCS2427\obj\Debug\PCS2427.pdb
+C:\Users\joseh\OneDrive\Documentos\GitHub\projetopcs-2427-2016\PCS2427\bin\Debug\PCS2427.exe
+C:\Users\joseh\OneDrive\Documentos\GitHub\projetopcs-2427-2016\PCS2427\bin\Debug\PCS2427.pdb
+C:\Users\joseh\OneDrive\Documentos\GitHub\projetopcs-2427-2016\PCS2427\bin\Debug\Newtonsoft.Json.dll
+C:\Users\joseh\OneDrive\Documentos\GitHub\projetopcs-2427-2016\PCS2427\bin\Debug\Newtonsoft.Json.xml
+C:\Users\joseh\OneDrive\Documentos\GitHub\projetopcs-2427-2016\PCS2427\obj\Debug\PCS2427.csprojResolveAssemblyReference.cache
+C:\Users\José Henrique\Documents\ProjetoPCS-2427-2016\PCS2427\bin\Debug\PCS2427.exe.config
+C:\Users\José Henrique\Documents\ProjetoPCS-2427-2016\PCS2427\bin\Debug\PCS2427.exe
+C:\Users\José Henrique\Documents\ProjetoPCS-2427-2016\PCS2427\bin\Debug\PCS2427.pdb
+C:\Users\José Henrique\Documents\ProjetoPCS-2427-2016\PCS2427\bin\Debug\Newtonsoft.Json.dll
+C:\Users\José Henrique\Documents\ProjetoPCS-2427-2016\PCS2427\bin\Debug\Newtonsoft.Json.xml
+C:\Users\José Henrique\Documents\ProjetoPCS-2427-2016\PCS2427\obj\Debug\PCS2427.csprojResolveAssemblyReference.cache
+C:\Users\José Henrique\Documents\ProjetoPCS-2427-2016\PCS2427\obj\Debug\PCS2427.exe
+C:\Users\José Henrique\Documents\ProjetoPCS-2427-2016\PCS2427\obj\Debug\PCS2427.pdb
+C:\Users\joseh\Source\Repos\PCS2427\PCS2427\bin\Debug\PCS2427.exe.config
+C:\Users\joseh\Source\Repos\PCS2427\PCS2427\obj\Debug\PCS2427.exe
+C:\Users\joseh\Source\Repos\PCS2427\PCS2427\obj\Debug\PCS2427.pdb
+C:\Users\joseh\Source\Repos\PCS2427\PCS2427\bin\Debug\PCS2427.exe
+C:\Users\joseh\Source\Repos\PCS2427\PCS2427\bin\Debug\PCS2427.pdb
+C:\Users\joseh\Source\Repos\PCS2427\PCS2427\bin\Debug\Newtonsoft.Json.dll
+C:\Users\joseh\Source\Repos\PCS2427\PCS2427\bin\Debug\Newtonsoft.Json.xml
+C:\Users\joseh\Source\Repos\PCS2427\PCS2427\obj\Debug\PCS2427.csprojResolveAssemblyReference.cache

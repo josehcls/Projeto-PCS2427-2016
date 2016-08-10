@@ -1,0 +1,35 @@
+{	
+	"Estados":
+	[
+		"q0", "q1", "q2"
+	],
+	"EstadoInicial":"q0",		
+	"Simbolos":"10",
+	"Transicoes":
+	[
+		{
+			"Origem":"q0",
+			"Simbolo":"1",
+			"Destino":"q1"
+		},
+		{
+			"Origem":"q1",
+			"Simbolo":"1",
+			"Destino":"q2"
+		},
+		{
+			"Origem":"q2",
+			"Simbolo":" ",
+			"Destino":"q1"
+		},
+		{
+			"Origem":"q2",
+			"Simbolo":"0",
+			"Destino":"q0"
+		}				
+	],
+	"EstadosFinais":
+	[
+		"q1"
+	]
+}

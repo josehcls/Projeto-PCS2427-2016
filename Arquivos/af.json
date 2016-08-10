@@ -1,0 +1,31 @@
+{	
+	"EstadoInicial":"a0",	
+	"Estados":
+	[
+		{
+			"Id":"a0",
+			"Final":true
+		},
+		{
+			"Id":"a1",
+			"Final":true
+		},
+		{
+			"Id":"a2"
+		}
+	],
+	"Simbolos":"abc",
+	"Transicoes":
+	[
+		{
+			"Origem":"a0",
+			"Simbolo":"a",
+			"Destino":"a1"
+		},
+		{
+			"Origem":"a1",
+			"Simbolo":"b",
+			"Destino":"a2"
+		}
+	]
+}
